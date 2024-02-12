@@ -1,0 +1,7 @@
+sindresorhus/pure     kind:fpath
+
+ohmyzsh/ohmyzsh path:plugins/asdf
+
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-history-substring-search
+zdharma-continuum/fast-syntax-highlighting
